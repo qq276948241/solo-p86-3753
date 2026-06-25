@@ -16,3 +16,7 @@ dist/
 .next/
 .nuxt/
 .output/
+
+# Ignore key files for decrypting credentials and more.
+/config/*.key
+
